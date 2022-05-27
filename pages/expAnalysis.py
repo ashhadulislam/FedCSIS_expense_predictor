@@ -5,7 +5,6 @@ from pickle import load
 import time
 import copy
 
-import torch
 
 import os
 import shutil
