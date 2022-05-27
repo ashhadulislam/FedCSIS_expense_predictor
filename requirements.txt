@@ -6,3 +6,4 @@ geopy
 statsmodels
 scikit-learn
 scipy
+xgboost
